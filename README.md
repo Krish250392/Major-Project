@@ -1,4 +1,4 @@
-# Major-Project
+# Major-Project (Honeypot Security System)
 
 This project presents a proactive defence scheme based on Honeypot security system (HPSS). We propose an improved approach based on Intruder Detector System (IDS) which enhances the security of cyber. HPSS provide improved attack prevention, detection and reaction information, drawn from the log files and other information captured in the process. Here the JAVA language has been used for development of front end and HTML has been used for back end of the project. Honeypots are clearly a useful tool for luring and trapping attackers, capturing information and generating alerts when someone is interacting with them. The honey pot system can cooperate with Firewall. The system will refuse the visit of the intruder whose IP address is set in the Firewall as blacklist by the honeypot.
 
